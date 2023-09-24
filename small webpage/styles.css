@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Apply styles to the body */
+body {
+    background-color: rgb(204, 204, 204);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+/* Style h1 and h2 headings */
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* Style the video and audio player containers */
+.player_one,
+.player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+/* Style the unordered list (playlist) */
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+/* Style the list items */
+li {
+    margin: 5px;
+}
+
+/* Style the links within list items */
+a {
+    text-decoration: none;
+    color: #007bff; /* Blue color for links */
+}
+
+a:hover {
+    text-decoration: underline;
+}
